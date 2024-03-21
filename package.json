@@ -1,6 +1,6 @@
 {
-  "name": "my-app",
-  "version": "1.1.4",
+  "name": "my-app-erlanggajuni45",
+  "version": "1.1.5",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -27,7 +27,7 @@
   "main": "postcss.config.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/erlanggajuni45/tea-project"
+    "url": "git+https://github.com/erlanggajuni45/tea-project.git"
   },
   "author": "",
   "license": "ISC",
